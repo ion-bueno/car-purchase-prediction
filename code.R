@@ -4,7 +4,7 @@ set.seed(1)
 
 ## ------- Import the dataset and prepare it to work -------
 
-cars =  read.csv("1.csv")
+cars =  read.csv("dataset.csv")
 
 vars <- c("Gender", "Age", "Annual.Salary", "Credit.Card.Debt",
           "Net.Worth", "Car.Purchase.Amount")
