@@ -10,7 +10,7 @@ Different strategies are implemented in **code.R**:
 * Non-linear extensions.
 * Ridge and Lasso regression.
 
-All the explanations and details as well as the conclusions respect the predictions can be found in **report.pdf**.
+All explanations and details as well as the conclusions respect the predictions can be found in **report.pdf**.
 
 
 
